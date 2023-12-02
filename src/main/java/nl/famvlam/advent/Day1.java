@@ -1010,7 +1010,8 @@ public class Day1 {
                        sevenbsixsbzmone55     
                 """;
 
-        System.out.println(new LineReader(lines).getCalibrationPartTwo());
+        System.out.println("Part one : " + new LineReader(lines).getCalibrationPartOne());
+        System.out.println("Part two : " + new LineReader(lines).getCalibrationPartTwo());
     }
 
 
